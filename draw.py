@@ -1,7 +1,7 @@
 import turtle
 
 my_turtle = turtle.Turtle()
-my_screen = turtle.Screen
+my_screen = turtle.Screen()
 
 
 def draw(my_turtle, length):
